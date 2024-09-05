@@ -1,0 +1,13 @@
+<string_table>
+	
+	<string id="st_wpn_sr25_pmc">
+        <text>SR-25 "Modernized"</text>
+    </string>
+    <string id="st_wpn_sr25_pmc_descr">
+        <text>The SR-25 is a semi-automatic sniper rifle designed by Eugene Stoner and manufactured by Knight's Armament Company. It is based on the AR-10 platform and uses a gas-operated rotating bolt system. The SR-25 is chambered in 7.62x51mm NATO and has a maximum effective range of 800 meters. It features a free-floating barrel, adjustable gas system, and a match-grade trigger. The SR-25 is used by various military and law enforcement units around the world, including the United States Navy SEALs. On this version of the rifle, almost all modules were replaced for the sake of greater ergonomics, including the butt, its tube, pistol grip and forearm, on which the tactical handle was installed. \n \n
+		%c[0,140,140,140]ATTACHMENTS: \n
+		%c[0,93,0,116] Х %c[0,140,140,140] Scopes: All scopes for picatinny\n
+		%c[0,93,0,116] Х %c[0,140,140,140] глушитель:  Silencer: AAC 7.62 SDN-6\n </text>
+    </string>
+	
+</string_table>
